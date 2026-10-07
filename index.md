@@ -1,5 +1,5 @@
 ---
-title: Fernando Sanchez Professional Portfolio
+title: Home
 ---
 ## Introduction
 My name is Fernando Sanchez, a physics student in Uconn set to graduate in the summer of 2027. I have an interest in education of Physics concepts at any level. 
